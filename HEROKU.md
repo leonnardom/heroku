@@ -7,7 +7,7 @@ Pra poder hospedar o Bot na Heroku só seguir os passos:
 
         --= VSC =--
     
-(1) Criar um arquivo chamado ( Procfile ) <com o "P" maísculo> e coloque dentro dele: ( worker: node <seu arquivo principal> )
+(1) Criar um arquivo chamado ( Procfile ) <com o "P" maísculo> e coloque dentro dele: ( worker: node (seu arquivo principal) )
 
 (2) Criar um arquivo chamado ( .gitignore ) e coloque detro dele: ( node_modules/ )
 
@@ -38,6 +38,6 @@ Pra poder hospedar o Bot na Heroku só seguir os passos:
 
 \8/ - git push heroku master
 
-( Pronto seu <APP> está hospedado )
+( Pronto seu BOT está hospedado )
 
 By: <zSpl1nterUS_#6455> <https://github.com/zSpl1nterUS>
