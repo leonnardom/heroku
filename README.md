@@ -38,6 +38,6 @@ Pra poder hospedar o Bot na Heroku só seguir os passos:
 
 \8/ - git push heroku master
 
-( Pronto seu <APP> está hospedado )
+( Pronto seu BOT está hospedado )
 
 By: <zSpl1nterUS_#6455> <https://github.com/zSpl1nterUS>
