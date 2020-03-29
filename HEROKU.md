@@ -31,12 +31,15 @@ Pra poder hospedar o Bot na Heroku só seguir os passos:
 
 <2> = git config --global user.email "seuemail@exemplo.com" )
 
+
 \6/ - git status e verifique se o <Procfile> ficou com o "P" maísculo
-\6/ - heroku create <nome do app que você quer>
+        
+        
+\7/ - heroku create <nome do app que você quer>
 
-\7/ - heroku git:remote -a <nome do app que você criou>
+\8/ - heroku git:remote -a <nome do app que você criou>
 
-\8/ - git push heroku master
+\9/ - git push heroku master
 
 ( Pronto seu BOT está hospedado )
 
